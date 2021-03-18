@@ -10,16 +10,16 @@ https://github.com/KeithGalli/Pandas-Data-Science-Tasks
 
 Code to recreate the dataset is included in the Sales_Data_csv. If you are not intrested in cloning the original repo.
 
-Additionally futher chart breakdowns and an interactive chart that lets you filter information by Month/ Product/ City can be found on my Tableau Public 
+Additionally, further chart breakdowns and an interactive chart that lets you filter information by Month/ Product/ City can be found on my Tableau Public --
 https://public.tableau.com/profile/beth.heinonen
 
-To see the code in a Jupyter Notebook(ipynb) click on the Full Work Analysis folder
+To see the code in a Jupyter Notebook(ipynb) click on the **Full Work Analysis** folder
 or click here https://github.com/BethHeinonen/Sales-Analysis-Project/blob/main/Full%20Work%20Analysis.ipynb
 
 
 ### Data Description
 This is from a created dataset that has no operational expenses included. 
-The random creation of fake "Purchase Address"s removes the ability to compare "stores" to evaluate individual preformance. One year of sales records also removes any instights of trends or sales preditions of the project.
+The random creation of fake "Purchase Address"s removes the ability to compare "stores" to evaluate individual preformance. One year of sales records also removes any instights of trends or sales predictions of the project.
 
 There are **186,305** sales records across **10** cities for **19** products. Prices of the products range from **$2.99 - $1,700.** There are **140,787** separate "store" locations with only **31.7%** of locations that have more than one sale. 
 
@@ -33,7 +33,7 @@ The main goals for the analysis is to find general insights on a city level and 
 # Findings
 
 ### General 
-Total Sale across all location reached **$34,331,640.00**
+Total Sales across all locations reached **$34,331,640.00**
 
 San Francisco, CA performed the best for the year, **$8+ M** 
 
@@ -77,7 +77,7 @@ Based on what we have
 * San Francisco, Los Angeles, New York, Boston (MA) in that order
 * Additional marketing in spike months / before spike to drive sales higher
 * Add bundle packages for products sold together
-* look into product expanion 
+* look into product expansion 
 
 
 
