@@ -2,7 +2,7 @@
 
 Short exercise evaluating a year of sales.
 
-Do to the size of the Dataset the finds were far faster and easier to read with Tableau, however, it is a good practice to work in both platforms to reinforce which platform works best when you have "X" data. I plan to add an SQL/MySQL work up as well with a breakdown within Excel to show the pros / cons of each or at the every least to show what is possible with each platform.
+Do to the size of the Dataset some of the findings were far faster and easier to complete with Tableau, however, it is a good practice to work in both platforms to reinforce which platform works best when you have "X" data. I plan to add an SQL/MySQL work up as well with a breakdown within Excel to show the pros / cons of each or at the every least to show what is possible within each platform.
 
 ### Data Source
 
